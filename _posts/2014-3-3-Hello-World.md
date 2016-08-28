@@ -3,6 +3,8 @@ layout: post
 title: Week One
 ---
 
+---
+
 ### What did you do this past week?
 The first week of Software Engineering consisted of going over the syllabus and specific tools we were going to use in the class. I started downloading the necessary software, such as Docker, and also set up this blog.
 
