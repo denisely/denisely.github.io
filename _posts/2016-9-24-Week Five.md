@@ -17,7 +17,9 @@ Next week, my main priorities are interviews and preparing for the upcoming test
 ---
 
 ### My experience in the class:
-We had another guest speaker, Alex Menzies, come speak to us from the NASA Jet Propulsion Laboratory (JPL) which was pretty awesome. He showed us a demo of how they use Microsoft Hololens to simulate walking on the surface of Mars which blew our minds. Also, I've been doing a lot better on the daily quizzes in this class! I think I've learned how to study for them and hope I can keep it up.
+We had another guest speaker, Alex Menzies, come speak to us from the NASA Jet Propulsion Laboratory (JPL) which was pretty awesome. He showed us a demo of how they use Microsoft Hololens to simulate walking on the surface of Mars which blew our minds. I hope that I'll be able to work on something cool like that in my future job.
+
+Also, I've been doing a lot better on the daily quizzes in this class! I think I've learned how to study for them and hope I can keep it up.
 
 ### Tip of the week:
 Last semester, I was one of the first people at career fair and was able to skip long lines and visit all the companies I wanted to in about three hours. This year, I arrived around 30 minutes after it started, and lines were already long. I stayed for four and a half hours and still didn't get to speak to all of the companies I wanted to. So be prepared for career fair and **go early!!**
