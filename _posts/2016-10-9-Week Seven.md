@@ -13,6 +13,7 @@ I'm still struggling with time management and planning ahead. Had I really looke
 
 ### What will you do next week?
 This next week, I'm hoping to get started on Project 3 and continue applying for jobs! My android class has an assignment due, and final project, so I will be working on those as well.
+
 ---
 
 ### My experience in the class:
