@@ -19,7 +19,7 @@ This next week, I will work more on Project 3 with my group, as well as my Andro
 ---
 
 ### My experience in the class:
-This week in class, we went over Project 3 specs, and some more Python concepts. Project 3 (aka phase 1) involves creating your own version of IDB, and the remaining 2 projects in this class (phase 2 and 3) will be adding more to this website. On the surface, it does not seem too complicated, but once we get to the meat of it, I am sure we will run into more problems. 
+This week in class, we went over Project 3 specs, and some more Python concepts. Project 3 (aka phase 1) involves creating your own version of IDB, and the remaining 2 projects in this class (phase 2 and 3) will be adding more to this website. On the surface, it does not seem too complicated, but once we get to the meat of it, I am sure we will run into more problems. There are also a lot of technologies involved that I am not very familiar with, so I'll need to do some more reading into those. 
 
 Also, the quizzes really kicked my butt this week. I felt like I understood the information, but after actually looking at unfamiliar code and trying to apply that knowledge, I obviously did not fully understand the material. 
 
