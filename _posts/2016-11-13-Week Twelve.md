@@ -24,4 +24,4 @@ I have still been doing poorly on quizzes due to the wording and also misreading
 Related to Phase 3, my group started a little later than we started Phase 2, but I think we should be fine. We are going to extend our API to do the searching, which the back end team is taking care of. Since I am part of the front end team, I just worked on using React to display the search results (with just some dummy data right now). 
 
 ### Tip of the week:
-I mentioned this before, but I want to mention it again. Make some friends in class early on so that you'll have a group you enjoy working with. I feel very fortunate to be in the group I am in, because they very flexibile (its easy for almost all of us to meet in the labs whenever), easy to get along with, and very knowledgeable. 
+I mentioned this before, but I want to mention it again. Make some friends in class early on so that you'll have a group you enjoy working with. I feel very fortunate to be in the group I am in, because they are very flexibile (its easy for almost all of us to meet in the labs whenever), easy to get along with, and very knowledgeable. 
